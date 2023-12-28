@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HotelMGT</id>
+    <version>1.0.0</version>
+    <authors>HotelMGT</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="Bunifu.UI.WinForms" version="6.0.2" exclude="Build,Analyzers" />
+        <dependency id="Guna.UI2.WinForms" version="2.0.3.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.UserSecrets" version="6.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="F:\C# Projects\My Projects\HotelMGT\HotelMGT\bin\Release\net7.0-windows\HotelMGT.runtimeconfig.json" target="lib\net7.0-windows7.0\HotelMGT.runtimeconfig.json" />
+    <file src="F:\C# Projects\My Projects\HotelMGT\HotelMGT\bin\Release\net7.0-windows\HotelMGT.dll" target="lib\net7.0-windows7.0\HotelMGT.dll" />
+  </files>
+</package>

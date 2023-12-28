@@ -1,0 +1,2 @@
+F:\C# Projects\My Projects\HotelMGT\HotelMGT\bin\Release\net7.0-windows\win-x64\app.publish\HotelMGT.pdb
+F:\C# Projects\My Projects\HotelMGT\HotelMGT\bin\Release\net7.0-windows\win-x64\app.publish\HotelMGT.exe
